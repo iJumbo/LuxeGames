@@ -13,7 +13,7 @@ The goals of this plugin are as followed -
 
 - The players inventories would have to be saved/restored when the game starts and ends.
 
-- A prize of 200 economy awarded to the winner of each game.
+- A prize of 200 economy money awarded to the winner of each game (on the main server of course).
 
 - Scheduled games to run every hour.
 
